@@ -65,6 +65,8 @@ Ejemplo: En Spring Boot, se utiliza el archivo application.properties para estab
 
 ## 20. Pruebas de integración
 
+Definición: Son pruebas que validan que varios componentes del sistema funcionen correctamente cuando interactúan entre sí.
+Ejemplo: Verificar que al crear un usuario desde un controlador, también se guarde correctamente en la base de datos mediante el servicio y repositorio.
 
 ## 21. Documentación técnica
 
