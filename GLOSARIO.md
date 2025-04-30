@@ -16,8 +16,12 @@
 (por completar)
 
 ## 6. Git
-(por completar)
 
+Definición: Git es un sistema de control de versiones distribuido que permite registrar, rastrear y revertir cambios en archivos, especialmente útil para proyectos de desarrollo de software.
+
+Ejemplo: Con git commit -m "Agregar nueva funcionalidad" se guarda un conjunto de cambios con un mensaje descriptivo.
+
+Fuente: git-scm.com
 ## 7. GitHub
 (por completar)
 
@@ -34,11 +38,13 @@
 (por completar)
 
 ## 12. Comunicación entre microservicios
-(por completar)
 
+Definición: Es el proceso mediante el cual los microservicios intercambian datos entre sí, comúnmente usando APIs REST o sistemas de mensajería como RabbitMQ o Kafka.
+Ejemplo: Un microservicio de pedidos puede solicitar información a un microservicio de usuarios a través de una petición HTTP.
 ## 13. Configuración del proyecto
-(por completar)
 
+Definición: Son los archivos y parámetros que definen cómo debe comportarse una aplicación, incluyendo propiedades como dependencias, puertos, conexión a base de datos, entre otros.
+Ejemplo: En Spring Boot, se utiliza el archivo application.properties para establecer el puerto del servidor (server.port=8081).
 ## 14. Backend
 (por completar)
 
@@ -52,19 +58,19 @@
 (por completar)
 
 ## 18. Pruebas
-(por completar)
+
 
 ## 19. Pruebas unitarias
-(por completar)
+
 
 ## 20. Pruebas de integración
-(por completar)
+
 
 ## 21. Documentación técnica
-(por completar)
+
 
 ## 22. @SpringBootApplication
-(por completar)
+
 
 ## 23. @RestController
 (por completar)
